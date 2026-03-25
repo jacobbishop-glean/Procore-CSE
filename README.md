@@ -1,2 +1,0 @@
-# Procore-CSE
-CSE Test
